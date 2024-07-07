@@ -1,0 +1,58 @@
+# Blender 4.0.2 MTL File: 'turbine.blend'
+# www.blender.org
+
+newmtl grid
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/textures/cc0textures/[2K]Metal07/Metal07_col.jpg
+map_Ns /Users/textures/cc0textures/[2K]Metal07/Metal07_rgh.jpg
+map_refl /Users/textures/cc0textures/[2K]Metal07/Metal07_met.jpg
+map_Bump -bm 1.000000 /Users/textures/cc0textures/[2K]Metal07/Metal07_nrm.jpg
+
+newmtl hull
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/textures/cc0textures/[2K]Metal12/Metal12_col.jpg
+map_Ns /Users/textures/cc0textures/[2K]Metal03/Metal03_rgh.jpg
+map_refl /Users/textures/cc0textures/[2K]Metal12/Metal12_met.jpg
+map_Bump -bm 1.000000 /Users/textures/cc0textures/[2K]Metal12/Metal12_nrm.jpg
+
+newmtl metal_brighter
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/textures/cgbookcase/Round Aluminium Panel 01/Round_aluminium_panel_01_2K_Base_Color.png
+map_Ns /Users/textures/cgbookcase/Galvanized Steel 01/Galvanized_steel_01_2K_Roughness.png
+
+newmtl metal_darker
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/textures/cgbookcase/Round Aluminium Panel 01/Round_aluminium_panel_01_2K_Base_Color_darker.png
+map_Ns /Users/textures/cgbookcase/Galvanized Steel 01/Galvanized_steel_01_2K_Roughness.png
+
+newmtl metal_scratched
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/textures/cc0textures/[2K]Metal03/Metal03_col.jpg
+map_Ns /Users/textures/cc0textures/[2K]Metal03/Metal03_rgh.jpg
+map_refl /Users/textures/cc0textures/[2K]Metal03/Metal03_met.jpg
+map_Bump -bm 1.000000 /Users/textures/cc0textures/[2K]Metal03/Metal03_nrm.jpg

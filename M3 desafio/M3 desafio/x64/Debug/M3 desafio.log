@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (M3 computação gráfica.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Source.cpp
+C:\Users\Guilherme\Downloads\AtividadesCG-main\M3 computação gráfica\M3 desafio\Source.cpp(29,18): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Guilherme\Downloads\AtividadesCG-main\M3 computação gráfica\M3 desafio\Source.cpp(152,52): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+  M3 desafio.vcxproj -> C:\Users\Guilherme\Downloads\AtividadesCG-main\M3 computação gráfica\x64\Debug\M3 desafio.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.

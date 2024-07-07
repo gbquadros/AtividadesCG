@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Guilherme\Documents\GitHub\AtividadesCG\M2 Desafio\M2 Desafio\Source.cpp(136,24): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Guilherme\Documents\GitHub\AtividadesCG\M2 Desafio\M2 Desafio\Source.cpp(142,24): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\Guilherme\Documents\GitHub\AtividadesCG\M2 Desafio\M2 Desafio\Source.cpp(148,24): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Guilherme\Documents\GitHub\AtividadesCG\M2 Desafio\M2 Desafio\Source.cpp(154,24): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\Guilherme\Documents\GitHub\AtividadesCG\M2 Desafio\M2 Desafio\Source.cpp(160,24): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Guilherme\Documents\GitHub\AtividadesCG\M2 Desafio\M2 Desafio\Source.cpp(166,24): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\Guilherme\Documents\GitHub\AtividadesCG\M2 Desafio\M2 Desafio\Source.cpp(188,26): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Guilherme\Documents\GitHub\AtividadesCG\M2 Desafio\M2 Desafio\Source.cpp(195,26): warning C4305: '-=': truncamento de 'double' para 'float'
+  M2 Desafio.vcxproj -> C:\Users\Guilherme\Documents\GitHub\AtividadesCG\M2 Desafio\x64\Debug\M2 Desafio.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.

@@ -1,0 +1,33 @@
+cameraPos 0.0 0.0 3.0
+cameraFront 0.0 0.0 -1.0
+cameraUp 0.0 1.0 0.0
+lightPos -2.0 100.0 2.0
+lightColor 1.0 1.0 1.0
+
+fileName SuzanneTriTextured.obj
+position -1.0 0.0 0.0
+scale 0.2
+angle 0.0
+axis Z
+startCurve
+curvePoint -0.7 -0.4 0.0
+curvePoint -0.5 -0.4 1.0
+curvePoint -0.2 -0.4 1.0
+curvePoint -0.1 -0.4 0.5
+curvePoint 0.0 -0.4 -1.0
+curvePoint 0.2 -0.4 -1.0
+curvePoint 0.4 -0.4 -1.0
+curvePoint 0.6 -0.4 -1.0
+curvePoint 0.7 -0.4 -0.5
+curvePoint 0.8 1.0 1.0
+endCurve
+
+fileName planeta.obj
+position 0.0 -0.5 0.0
+scale 0.5
+angle 0.0
+axis X
+noCurve
+
+
+

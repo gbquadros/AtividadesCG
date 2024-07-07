@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (M4 desafio Rafael Brustolin.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Source.cpp
+C:\Users\Guilherme\Downloads\AtividadesCG-main\M4 desafio\M4 desafio\Source.cpp(27,18): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Guilherme\Downloads\AtividadesCG-main\M4 desafio\M4 desafio\Source.cpp(163,52): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+C:\Users\Guilherme\Downloads\AtividadesCG-main\M4 desafio\M4 desafio\Source.cpp(257,23): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Guilherme\Downloads\AtividadesCG-main\M4 desafio\M4 desafio\Source.cpp(261,24): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Guilherme\Downloads\AtividadesCG-main\M4 desafio\M4 desafio\Source.cpp(264,24): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  M4 desafio.vcxproj -> C:\Users\Guilherme\Downloads\AtividadesCG-main\M4 desafio\x64\Debug\M4 desafio.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
